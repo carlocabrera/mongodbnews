@@ -21,4 +21,4 @@ Axios
 * [Cheerio Documentation](https://github.com/cheeriojs/cheerio)
 
 # Demo
-![MongoDB New York Times Scraper](demo.gif)
+![MongoDB New York Times Scraper](https://pouch.jumpshare.com/preview/4_MNzRhSQUC4tRyyCOG_k9SMtlUZUNw-AZBmOd8Z20tozKyLz25Yxn-bTpwJlc6v7HLs14hf2SwUIFvRIJpzu1rWRC8tYABFuekS8mwDWCY)
