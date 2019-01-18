@@ -1,4 +1,4 @@
-# MongoDBNews: NY Times MongoDB News Scraper
+# MongoDB News: NY Times MongoDB News Scraper
 View & Comment on the Latest News Web Application
 
 # Tech
