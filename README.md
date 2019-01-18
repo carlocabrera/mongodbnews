@@ -1,12 +1,18 @@
-# mongodbnews
+# MongoDBNews: NY Times MongoDB News Scraper
+View & Comment on the Latest News Web Application
 
 # Tech
-express
+Express
 
-express-handlebars
+Handlebars
 
-mongoose
+Mongoose
 
-cheerio
+Cheerio
 
-axios
+Axios
+
+# Docs
+* [MongoDB Documentation](https://docs.mongodb.com/manual/)
+* [Mongoose Documentation](http://mongoosejs.com/docs/api.html)
+* [Cheerio Documentation](https://github.com/cheeriojs/cheerio)
