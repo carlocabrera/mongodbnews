@@ -1,6 +1,7 @@
 // Notes Controller
 // ========================
 var db = require("../models");
+
 // Find, Create & Delete Note
 module.exports = {
 

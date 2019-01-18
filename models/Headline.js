@@ -15,16 +15,19 @@ var headlineSchema = new Schema({
     required: true,
     unique: { index: { unique: true } }
   },
+
 // Summary
   summary: {
     type: String,
     required: true
   },
+
   // Link
   url: {
     type: String,
     required: true
   },
+  
 // Date
   date: {
     type: Date,
