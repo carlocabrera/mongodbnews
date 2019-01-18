@@ -1,5 +1,5 @@
 # MongoDB News: NY Times MongoDB News Scraper
-View & Comment on the Latest News Web Application
+View & Comment on the Latest News Scraped from the New York Times Site Web Application
 
 # Tech
 Express
