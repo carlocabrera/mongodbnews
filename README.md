@@ -3,9 +3,13 @@ View & Comment on the Latest News Web Application
 
 # Tech
 Express
+
 Handlebars
+
 Mongoose
+
 Cheerio
+
 Axios
 
 # Docs
